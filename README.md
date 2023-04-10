@@ -1,9 +1,4 @@
-# Java_Week4_Assessment
-
-~~~
-Name   : H.Syed Abdul Wasih
-Reg No : 212221240057
-~~~
+# Weekly-Assessment--4
 
 # Questions:
 
